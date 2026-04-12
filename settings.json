@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "HaryGalle",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "HarySMP.aternos.me",
+    "port": 60244,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,22 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "§aHey guys! Welcome to §6HARYANASMP §a🔥",
+    "§bJoin the best server §eHARYANASMP §bnow!",
+    "§dSubscribe to §cHRHARY §dfor awesome content 🎥",
+    "§eHRHARY ka SMP = full fun + PvP ⚔️",
+    "§6Playing on §aHARYANASMP §6right now 😎",
+    "§bKoi bhi join karo §eHARYANASMP §b💥",
+    "§cHRHARY OP channel hai bhai 🔥",
+    "§dSurvival + PvP = §6HARYANASMP",
+    "§aNew players welcome in §eHARYANASMP 🤝",
+    "§bHRHARY ko support karo guys ❤️",
+    "§eYaha sab pro players hai 😈 §6HARYANASMP",
+    "§cDon't miss §dHARYANASMP §c🔥",
+    "§aBest SMP ever = §6HARYANASMP",
+    "§bHRHARY live aata rehta hai 🎮",
+    "§dFull grind chal raha hai §eHARYANASMP 💪",
+    "§6Aajao sab §aHARYANASMP §6mein 😎"
       ]
     },
     "chat-log": true,
@@ -45,7 +58,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 40,
       "speed": 3000
     },
     "look-around": {
@@ -60,7 +73,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -69,8 +82,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
