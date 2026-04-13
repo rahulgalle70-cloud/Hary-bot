@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1200,
       "messages": [
         "§aHey guys! Welcome to §6HARYANASMP §a🔥",
     "§bJoin the best server §eHARYANASMP §bnow!",
@@ -51,8 +51,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 10000,
-    "max-reconnect-delay": 10000
+    "auto-reconnect-delay": 100000,
+    "max-reconnect-delay": 100000
   },
   "movement": {
     "enabled": true,
